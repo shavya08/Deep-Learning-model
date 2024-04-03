@@ -1,2 +1,2 @@
 # Deep-Learning-model
-Deep learning model foe loan default prediction
+Deep learning model for loan default prediction
